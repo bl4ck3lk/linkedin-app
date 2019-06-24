@@ -1,0 +1,9 @@
+{
+  "CHANGE_MENU_ITEM": "change_menu_item",
+  "SET_CREDENTIALS": "set_credentials",
+  "LOGIN_USER": "login_user",
+  "LOGOUT_USER": "logout_user",
+  "ADD_SEARCH_TERM": "add_search_term",
+  "OPEN_MODAL": "open_modal",
+  "DELETE_SEARCH_TERM": "delete_search_term"
+}
